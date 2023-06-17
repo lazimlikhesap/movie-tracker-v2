@@ -8,4 +8,4 @@ This project is a simple movie application built with the protocol-oriented MVMM
 
 ## Screenshots
 
-<img src="/Screenshots/home-screen.png" width="266"> &emsp;<img src="/Screenshots/search-screen.png" width="266"> &emsp;<img src="/Screenshots/detail-screen.png" width="266">
+<img src="/Screenshots/home-screen.png" width="266">&emsp;<img src="/Screenshots/search-screen.png" width="266">&emsp;<img src="/Screenshots/detail-screen.png" width="266">
