@@ -2,9 +2,7 @@
 
 This project is a simple movie application built with the protocol-oriented MVMM architecture.
 
-## Demo
-
-<a href="https://drive.google.com/drive/u/0/folders/1IfA1VAcgpxyMs-JrdgH7q0RZEs7NnsOy" target="_blank">Link</a>
+## Demo: <a href="https://drive.google.com/drive/u/0/folders/1IfA1VAcgpxyMs-JrdgH7q0RZEs7NnsOy" target="_blank">Link</a>
 
 ## Screenshots
 
